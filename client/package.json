@@ -28,6 +28,7 @@
     "downloadjs": "^1.4.7",
     "es6-promisify": "^5.0.0",
     "localforage": "^1.7.1",
+    "material-design-icons-iconfont": "^3.0.3",
     "normalize.css": "^7.0.0",
     "oauth-open": "^1.0.3",
     "shortid": "^2.2.8",
@@ -36,6 +37,7 @@
     "vue-directive-tooltip": "^1.4.5",
     "vue-mdc-adapter": "^0.15.3",
     "vue-router": "^2.8.1",
+    "vuetify": "^1.1.11",
     "vuex": "^2.5.0"
   },
   "devDependencies": {
